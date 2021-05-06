@@ -16,7 +16,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/AdguardTeam/AdGuardHome/internal/dnsfilter"
+	"github.com/muhepd/AdGuardHome/internal/dnsfilter"
 	"github.com/AdguardTeam/golibs/log"
 )
 
